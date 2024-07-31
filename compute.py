@@ -24,7 +24,7 @@ threshold = float(threshold)
 limit = float(limit)
 
 # Parse input lines from standard in.
-inputs: list[float] = []
+inputs = []
 for line in sys.stdin:
     inputs.append(float(line.strip()))
 
