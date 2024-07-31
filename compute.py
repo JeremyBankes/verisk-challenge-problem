@@ -1,5 +1,5 @@
 # Jeremy Bankes - jeremy.bankes@gmail.com - July 31, 2024
-# Written using Python 3.12.1
+# Tested for Python 3.6.9
 
 # Notes to the reviewer:
 # - I used the style guide outlined here: https://peps.python.org/pep-0008/
